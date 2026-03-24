@@ -1,0 +1,442 @@
+2026-03-21 18:21:13,072 - INFO - Opening Flights Tab
+2026-03-21 18:21:34,594 - INFO - TC1: Origin Chennai
+2026-03-21 18:21:53,882 - INFO - TC2: Destination Mumbai
+2026-03-21 18:22:30,380 - INFO - TC3: Date selection
+2026-03-21 18:22:35,569 - INFO - TC4: Search flights
+2026-03-21 18:22:35,760 - INFO - TC5: Get prices
+2026-03-21 18:22:50,295 - INFO - AI: Find cheapest
+2026-03-21 18:22:50,295 - INFO - Cheapest: 4334
+2026-03-21 18:22:50,295 - INFO - TC6: Open cheapest flight
+2026-03-21 18:22:50,527 - INFO - TC7: Validate route
+2026-03-21 18:30:23,927 - INFO - Opening Flights Tab
+2026-03-21 18:30:46,827 - INFO - TC1: Origin Chennai
+2026-03-21 18:31:04,578 - INFO - TC2: Destination Mumbai
+2026-03-21 18:31:42,313 - INFO - TC3: Date selection
+2026-03-21 18:31:48,673 - INFO - TC4: Search flights
+2026-03-21 18:31:48,877 - INFO - TC5: Get prices
+2026-03-21 18:32:02,448 - INFO - AI: Find cheapest
+2026-03-21 18:32:02,448 - INFO - Cheapest: 4334
+2026-03-21 18:32:02,448 - INFO - TC6: Open cheapest flight
+2026-03-21 18:37:45,316 - INFO - Opening Flights Tab
+2026-03-21 18:38:07,517 - INFO - TC1: Origin Chennai
+2026-03-21 18:38:26,496 - INFO - TC2: Destination Mumbai
+2026-03-21 18:39:02,406 - INFO - TC3: Date selection
+2026-03-21 18:39:09,520 - INFO - TC4: Search flights
+2026-03-21 18:39:11,767 - INFO - TC5: Get prices
+2026-03-21 18:39:23,810 - INFO - Prices: ['₹5,258', '₹4,659', '₹4,334', '₹4,659', '₹4,659', '₹4,659', '₹4,334', 'Lock Price @₹799', '₹4,450', '₹5,100', 'Lock Price @₹559', '₹4,608', '₹5,258', 'Lock Price @₹629', '₹4,849', '₹5,499', 'Lock Price @₹649', '₹5,645']
+2026-03-21 18:39:23,810 - INFO - AI: Find cheapest
+2026-03-21 18:39:23,810 - INFO - Cheapest: 4334
+2026-03-21 18:39:23,810 - INFO - TC6: Open cheapest flight
+2026-03-21 18:47:38,338 - INFO - Opening Flights Tab
+2026-03-21 18:48:00,347 - INFO - TC1: Origin Chennai
+2026-03-21 18:48:19,633 - INFO - TC2: Destination Mumbai
+2026-03-21 18:48:56,819 - INFO - TC3: Date selection
+2026-03-21 18:49:03,801 - INFO - TC4: Search flights
+2026-03-21 18:49:05,540 - INFO - TC5: Get prices
+2026-03-21 18:49:22,604 - INFO - Prices: ['₹71,967', '₹71,967', '₹73,533', '₹73,541']
+2026-03-21 18:49:22,605 - INFO - AI: Find cheapest
+2026-03-21 18:49:22,605 - INFO - Cheapest: 71967
+2026-03-21 18:49:22,605 - INFO - TC6: Open cheapest flight
+2026-03-21 18:50:28,495 - INFO - Opening Flights Tab
+2026-03-21 18:52:05,160 - INFO - Opening Flights Tab
+2026-03-21 18:52:26,279 - INFO - TC1: Origin Chennai
+2026-03-21 18:52:45,181 - INFO - TC2: Destination Mumbai
+2026-03-21 18:53:21,482 - INFO - TC3: Date selection
+2026-03-21 18:53:27,568 - INFO - TC4: Search flights
+2026-03-21 18:53:30,604 - INFO - TC5: Get prices
+2026-03-21 18:54:03,663 - INFO - Prices: ['₹5,258', '₹4,659', '₹4,334', '₹4,659', '₹4,659', '₹4,659', '₹4,334', 'Lock Price @₹809', '₹4,440', '₹5,100', 'Lock Price @₹559', '₹4,608', '₹5,258', 'Lock Price @₹619', '₹4,849', '₹5,499', 'Lock Price @₹649', '₹5,645']
+2026-03-21 18:54:03,663 - INFO - AI: Find cheapest
+2026-03-21 18:54:03,663 - INFO - Cheapest: 4334
+2026-03-21 18:54:03,663 - INFO - TC6: Open cheapest flight
+2026-03-21 19:00:15,395 - INFO - Opening Flights Tab
+2026-03-21 19:00:37,532 - INFO - TC1: Origin Chennai
+2026-03-21 19:00:54,864 - INFO - TC2: Destination Mumbai
+2026-03-21 19:01:32,221 - INFO - TC3: Date selection
+2026-03-21 19:01:37,868 - INFO - TC4: Search flights
+2026-03-21 19:01:39,781 - INFO - TC5: Get prices
+2026-03-21 19:01:56,127 - INFO - Prices: ['₹5,258', '₹4,659', '₹4,334', '₹4,659', '₹4,659', '₹4,659', '₹4,334', 'Lock Price @₹819', '₹4,440', '₹5,100', 'Lock Price @₹559', '₹4,608', '₹5,258', 'Lock Price @₹629', '₹4,849', '₹5,499', 'Lock Price @₹649', '₹5,645']
+2026-03-21 19:01:56,127 - INFO - AI: Find cheapest
+2026-03-21 19:01:56,127 - INFO - Cheapest: 4334
+2026-03-21 19:01:56,127 - INFO - TC6: Open cheapest flight
+2026-03-21 19:02:01,413 - INFO - TC7: Validate route
+2026-03-21 19:20:00,560 - INFO - Opening Flights Tab
+2026-03-21 19:20:23,022 - INFO - TC1: Origin Chennai
+2026-03-21 19:20:43,778 - INFO - TC2: Destination Mumbai
+2026-03-21 19:21:08,948 - INFO - TC3: Date selection
+2026-03-21 19:21:18,027 - INFO - TC4: Search flights
+2026-03-21 19:21:21,039 - INFO - TC5: Get prices
+2026-03-21 19:21:31,660 - INFO - Prices: ['₹5,258', '₹4,659', '₹4,334', '₹4,659', '₹4,659', '₹4,659', '₹4,334', 'Lock Price @₹799', '₹4,450', '₹5,100', 'Lock Price @₹569', '₹4,608', '₹5,258', 'Lock Price @₹629', '₹4,849', '₹5,499', 'Lock Price @₹639', '₹5,645', 'Lock Price @₹469']
+2026-03-21 19:21:31,661 - INFO - AI: Find cheapest
+2026-03-21 19:21:31,661 - INFO - Cheapest: 4334
+2026-03-21 19:21:31,661 - INFO - TC6: Open cheapest flight
+2026-03-21 19:21:37,887 - INFO - TC7: Validate route
+2026-03-21 19:21:39,367 - INFO - Route: MAA-BOM
+2026-03-21 19:34:17,684 - INFO - Opening Flights Tab
+2026-03-21 19:34:40,902 - INFO - TC1: Origin Chennai
+2026-03-21 19:35:03,232 - INFO - TC2: Destination Mumbai
+2026-03-21 19:35:39,059 - INFO - TC3: Date selection
+2026-03-21 19:35:50,117 - INFO - TC4: Search flights
+2026-03-21 19:35:52,117 - INFO - TC5: Get prices
+2026-03-21 19:36:01,913 - INFO - Prices: ['₹5,258', '₹4,659', '₹4,334', '₹4,659', '₹4,659', '₹4,659', '₹4,334', 'Lock Price @₹949', '₹4,450', '₹5,100', 'Lock Price @₹569', '₹4,608', '₹5,258', 'Lock Price @₹629', '₹4,849', '₹5,499', 'Lock Price @₹639', '₹5,645']
+2026-03-21 19:36:01,913 - INFO - AI: Find cheapest
+2026-03-21 19:36:01,915 - INFO - Cheapest: 4334
+2026-03-21 19:36:01,915 - INFO - TC6: Open cheapest flight
+2026-03-21 19:38:46,842 - INFO - Opening Flights Tab
+2026-03-21 19:41:57,952 - INFO - Opening Flights Tab
+2026-03-21 19:42:21,948 - INFO - TC1: Origin Chennai
+2026-03-21 19:42:45,448 - INFO - TC2: Destination Mumbai
+2026-03-21 19:43:21,584 - INFO - TC3: Date selection
+2026-03-21 19:43:33,072 - INFO - TC4: Search flights
+2026-03-21 19:43:34,243 - INFO - TC5: Get prices
+2026-03-21 19:43:42,932 - INFO - Prices: ['₹5,258', '₹4,659', '₹4,334', '₹4,659', '₹4,659', '₹4,659', '₹4,334', 'Lock Price @₹949', '₹4,463', '₹5,113', 'Lock Price @₹239', '₹4,621', '₹5,271', 'Lock Price @₹409', '₹4,849', '₹5,499', 'Lock Price @₹299', '₹5,645']
+2026-03-21 19:43:42,932 - INFO - AI: Find cheapest
+2026-03-21 19:43:42,932 - INFO - Cheapest: 4334
+2026-03-21 19:43:42,932 - INFO - TC6: Open cheapest flight
+2026-03-21 20:09:14,662 - INFO - Opening Flights Tab
+2026-03-21 20:15:41,583 - INFO - Opening Flights Tab
+2026-03-21 20:16:16,107 - INFO - TC1: Origin Chennai
+2026-03-21 20:16:42,528 - INFO - TC2: Destination Mumbai
+2026-03-21 20:17:19,598 - INFO - TC3: Date selection
+2026-03-21 20:17:42,215 - INFO - TC4: Search flights
+2026-03-21 20:17:45,691 - INFO - TC5: Get prices
+2026-03-21 20:26:36,859 - INFO - Opening Flights Tab
+2026-03-21 20:27:03,499 - INFO - TC1: Origin Chennai
+2026-03-21 20:27:28,929 - INFO - TC2: Destination Mumbai
+2026-03-21 20:27:56,212 - INFO - TC3: Date selection
+2026-03-21 20:29:34,451 - INFO - Opening Flights Tab
+2026-03-21 20:30:08,765 - INFO - TC1: Origin Chennai
+2026-03-21 20:30:31,778 - INFO - TC2: Destination Mumbai
+2026-03-21 20:30:58,373 - INFO - TC3: Date selection
+2026-03-21 20:31:16,036 - INFO - TC4: Search flights
+2026-03-21 20:31:20,480 - INFO - TC5: Get prices
+2026-03-21 20:40:34,049 - INFO - Opening Flights Tab
+2026-03-21 20:41:11,447 - INFO - TC1: Origin Chennai
+2026-03-21 20:41:35,958 - INFO - TC2: Destination Mumbai
+2026-03-21 20:42:01,247 - INFO - TC3: Date selection
+2026-03-21 20:42:20,351 - INFO - TC4: Search flights
+2026-03-21 20:42:26,789 - INFO - TC5: Get prices
+2026-03-21 20:42:37,992 - INFO - Prices: ['₹4,334', '₹4,445', '₹4,608', '₹4,849', '₹5,645']
+2026-03-21 20:42:37,993 - INFO - AI: Find cheapest
+2026-03-21 20:42:37,993 - INFO - Cheapest: 4334
+2026-03-21 20:42:37,993 - INFO - TC6: Open cheapest flight
+2026-03-21 20:42:45,833 - INFO - TC7: Validate route
+2026-03-21 20:42:46,516 - INFO - Route: 
+2026-03-21 20:47:35,931 - INFO - Opening Flights Tab
+2026-03-21 20:48:11,306 - INFO - TC1: Origin Chennai
+2026-03-21 20:48:43,029 - INFO - TC2: Destination Mumbai
+2026-03-21 20:49:10,509 - INFO - TC3: Date selection
+2026-03-21 20:49:32,931 - INFO - TC4: Search flights
+2026-03-21 20:49:37,639 - INFO - TC5: Get prices
+2026-03-21 20:49:49,896 - INFO - Prices: ['₹4,334', '₹4,440', '₹4,608', '₹4,849', '₹5,645']
+2026-03-21 20:49:49,898 - INFO - AI: Find cheapest
+2026-03-21 20:49:49,898 - INFO - Cheapest: 4334
+2026-03-21 20:49:49,898 - INFO - TC6: Open cheapest flight
+2026-03-21 20:49:56,877 - INFO - TC7: Validate route
+2026-03-21 20:49:57,215 - INFO - Route: 
+2026-03-21 21:01:34,165 - INFO - Opening Flights Tab
+2026-03-21 21:02:07,096 - INFO - TC1: Origin Chennai
+2026-03-21 21:02:36,831 - INFO - TC2: Destination Mumbai
+2026-03-21 21:03:03,727 - INFO - TC3: Date selection
+2026-03-21 21:03:25,348 - INFO - TC4: Search flights
+2026-03-21 21:03:29,322 - INFO - TC5: Get prices
+2026-03-21 21:03:41,093 - INFO - Prices: ['₹4,334', '₹4,440', '₹4,608', '₹4,849', '₹5,645']
+2026-03-21 21:03:41,095 - INFO - AI: Find cheapest
+2026-03-21 21:03:41,095 - INFO - Cheapest: 4334
+2026-03-21 21:03:41,095 - INFO - TC6: Open cheapest flight
+2026-03-21 21:03:47,897 - INFO - TC7: Validate route
+2026-03-21 21:03:50,101 - INFO - Route found: 
+2026-03-21 21:07:37,661 - INFO - Opening Flights Tab
+2026-03-21 21:08:14,034 - INFO - TC1: Origin Chennai
+2026-03-21 21:08:43,065 - INFO - TC2: Destination Mumbai
+2026-03-21 21:09:08,135 - INFO - TC3: Date selection
+2026-03-21 21:09:32,787 - INFO - TC4: Search flights
+2026-03-21 21:09:37,867 - INFO - TC5: Get prices
+2026-03-21 21:09:50,878 - INFO - Prices: ['₹4,334', '₹4,445', '₹4,608', '₹4,849', '₹5,645']
+2026-03-21 21:09:50,878 - INFO - AI: Find cheapest
+2026-03-21 21:09:50,878 - INFO - Cheapest: 4334
+2026-03-21 21:09:50,880 - INFO - TC6: Open cheapest flight
+2026-03-21 21:09:58,763 - INFO - TC7: Validate route
+2026-03-21 21:10:00,706 - INFO - Route found: 
+2026-03-21 21:17:06,248 - INFO - Opening Flights Tab
+2026-03-21 21:17:37,089 - INFO - TC1: Origin Chennai
+2026-03-21 21:18:08,381 - INFO - TC2: Destination Mumbai
+2026-03-21 21:18:35,171 - INFO - TC3: Date selection
+2026-03-21 21:18:58,543 - INFO - TC4: Search flights
+2026-03-21 21:19:03,075 - INFO - TC5: Get prices
+2026-03-21 21:19:15,461 - INFO - Prices: ['₹4,334', '₹4,450', '₹4,608', '₹4,849', '₹5,645']
+2026-03-21 21:19:15,461 - INFO - AI: Find cheapest
+2026-03-21 21:19:15,463 - INFO - Cheapest: 4334
+2026-03-21 21:19:15,464 - INFO - TC6: Open cheapest flight
+2026-03-21 21:19:22,664 - INFO - TC7: Validate route
+2026-03-21 21:19:24,807 - INFO - Route found: 
+2026-03-21 21:27:21,407 - INFO - Opening Flights Tab
+2026-03-21 21:27:55,728 - INFO - TC1: Origin Chennai
+2026-03-21 21:49:31,259 - INFO - Opening Flights Tab
+2026-03-21 21:50:10,788 - INFO - TC1: Origin Chennai
+2026-03-21 21:50:39,491 - INFO - TC2: Destination Mumbai
+2026-03-21 21:51:06,788 - INFO - TC3: Date selection
+2026-03-21 21:51:28,766 - INFO - TC4: Search flights
+2026-03-21 21:51:31,496 - INFO - TC5: Get prices
+2026-03-21 21:51:41,606 - INFO - Prices: ['₹4,334', '₹4,440', '₹4,608', '₹4,849', '₹5,645']
+2026-03-21 21:51:41,607 - INFO - AI: Find cheapest
+2026-03-21 21:51:41,607 - INFO - Cheapest: 4334
+2026-03-21 21:51:41,608 - INFO - TC6: Open cheapest flight
+2026-03-21 22:05:13,392 - INFO - Opening Flights Tab
+2026-03-21 22:05:38,197 - INFO - TC1: Origin Chennai
+2026-03-21 22:05:56,701 - INFO - TC2: Destination Mumbai
+2026-03-21 22:06:23,106 - INFO - TC3: Date selection
+2026-03-21 22:06:29,138 - INFO - TC4: Search flights
+2026-03-21 22:06:32,408 - INFO - TC5: Get prices
+2026-03-21 22:06:34,323 - INFO - Prices: ['₹4,334', '₹4,440', '₹4,608', '₹4,849', '₹5,645', '₹5,645']
+2026-03-21 22:06:34,323 - INFO - AI: Find cheapest
+2026-03-21 22:06:34,323 - INFO - Cheapest: 4334
+2026-03-21 22:06:34,323 - INFO - TC6: Open cheapest flight
+2026-03-21 22:18:47,806 - INFO - Opening Flights Tab
+2026-03-21 22:19:09,199 - INFO - TC1: Origin Chennai
+2026-03-21 22:19:27,335 - INFO - TC2: Destination Mumbai
+2026-03-21 22:19:53,906 - INFO - TC3: Date selection
+2026-03-21 22:19:59,906 - INFO - TC4: Search flights
+2026-03-21 22:20:00,148 - INFO - TC5: Get prices
+2026-03-21 22:26:39,141 - INFO - Opening Flights Tab
+2026-03-21 22:27:01,766 - INFO - TC1: Origin Chennai
+2026-03-21 22:27:20,635 - INFO - TC2: Destination Mumbai
+2026-03-21 22:27:47,157 - INFO - TC3: Date selection
+2026-03-21 22:27:52,317 - INFO - TC4: Search flights
+2026-03-21 22:27:52,480 - INFO - TC5: Get prices
+2026-03-21 22:30:11,400 - INFO - Opening Flights Tab
+2026-03-21 22:30:32,450 - INFO - TC1: Origin Chennai
+2026-03-21 22:30:51,533 - INFO - TC2: Destination Mumbai
+2026-03-21 22:31:16,798 - INFO - TC3: Date selection
+2026-03-21 22:31:23,920 - INFO - TC4: Search flights
+2026-03-21 22:31:26,241 - INFO - TC5: Get prices
+2026-03-21 22:31:31,128 - INFO - Prices: ['₹4,334', '₹4,450', '₹4,608', '₹4,849', '₹5,645']
+2026-03-21 22:31:31,129 - INFO - AI: Find cheapest
+2026-03-21 22:31:31,129 - INFO - Cheapest: 4334
+2026-03-21 22:31:31,129 - INFO - TC6: Open cheapest flight
+2026-03-21 22:35:01,210 - INFO - Opening Flights Tab
+2026-03-21 22:35:12,573 - INFO - TC1: Origin Chennai
+2026-03-21 22:35:30,935 - INFO - TC2: Destination Mumbai
+2026-03-21 22:35:47,389 - INFO - TC3: Date selection
+2026-03-21 22:38:12,490 - INFO - Opening Flights Tab
+2026-03-21 22:38:24,489 - INFO - TC1: Origin Chennai
+2026-03-21 22:38:41,534 - INFO - TC2: Destination Mumbai
+2026-03-21 22:38:57,504 - INFO - TC3: Date selection
+2026-03-21 22:46:37,280 - INFO - --- STARTING FLIGHT SEARCH AUTOMATION ---
+2026-03-21 22:46:37,281 - INFO - TC1: Opening Flights Tab
+2026-03-21 22:46:58,904 - INFO - TC2: Origin selection - Chennai
+2026-03-21 22:47:17,400 - INFO - TC3: Destination selection - Mumbai
+2026-03-21 22:47:43,980 - INFO - TC4: Selecting travel date and searching
+2026-03-21 22:47:51,809 - INFO - TC5: Scraping flight prices from results screen
+2026-03-21 22:47:57,417 - INFO - Prices Scraped successfully: ['₹5,645', '₹5,645', '₹5,645', '₹5,645', '₹5,645', '₹5,645']
+2026-03-21 22:47:57,417 - INFO - TC6: AI Logic - Identifying the cheapest flight
+2026-03-21 22:47:57,417 - INFO - The cheapest price found is: 5645
+2026-03-21 22:47:57,417 - INFO - TC7: Selecting and opening flight with price 5645
+2026-03-22 08:58:03,243 - INFO - Opening Flights Tab
+2026-03-22 08:58:25,020 - INFO - TC1: Origin Chennai
+2026-03-22 08:58:54,462 - INFO - TC2: Destination Mumbai
+2026-03-22 08:59:11,621 - INFO - TC3: Date selection
+2026-03-22 08:59:32,601 - INFO - TC4: Search flights
+2026-03-22 08:59:39,424 - INFO - TC5: Get prices
+2026-03-22 09:24:23,222 - INFO - === STARTING IXIGO SEARCH TEST ===
+2026-03-22 09:24:23,223 - INFO - TC: Opening Flights Tab
+2026-03-22 09:24:41,918 - INFO - TC: Selecting Origin: Chennai
+2026-03-22 09:25:04,988 - INFO - TC: Selecting Destination: Mumbai
+2026-03-22 09:25:15,074 - ERROR - Failed to find element with locators: [('xpath', "//*[contains(@text,'To')]")]
+2026-03-22 09:31:29,275 - INFO - === STARTING IXIGO SEARCH TEST ===
+2026-03-22 09:31:29,276 - INFO - TC: Opening Flights Tab
+2026-03-22 09:32:03,041 - ERROR - Failed to find element with locators: [('accessibility id', 'Flights'), ('xpath', "//android.widget.TextView[@text='Flights']"), ('xpath', "//*[@content-desc='Flights']")]
+2026-03-22 09:32:03,041 - INFO - Note: Flights tab navigation skipped.
+2026-03-22 09:32:03,042 - INFO - TC: Selecting Origin: Chennai
+2026-03-22 09:32:33,139 - INFO - TC: Selecting Destination: Mumbai
+2026-03-22 09:33:09,820 - INFO - TC: Selecting Date
+2026-03-22 09:34:42,019 - INFO - === STARTING IXIGO SEARCH TEST ===
+2026-03-22 09:34:42,019 - INFO - TC: Opening Flights Tab
+2026-03-22 09:35:03,040 - ERROR - Failed to click element: ('accessibility id', 'Flights')
+2026-03-22 09:35:11,585 - INFO - TC: Selecting Origin: Chennai
+2026-03-22 09:35:22,846 - INFO - TC: Selecting Destination: Mumbai
+2026-03-22 09:35:32,936 - ERROR - Failed to click element: ('xpath', "//android.widget.TextView[contains(@text,'To')]")
+2026-03-22 09:35:38,277 - INFO - TC: Selecting Date
+2026-03-22 09:35:58,918 - ERROR - Failed to click element: ('xpath', "//*[contains(@text,'Depart') or contains(@text,'Mar')]")
+2026-03-22 09:39:44,325 - INFO - Opening Flights Tab
+2026-03-22 09:40:12,669 - INFO - TC1: Origin Chennai
+2026-03-22 09:40:46,084 - INFO - TC2: Destination Mumbai
+2026-03-22 09:41:04,349 - INFO - TC3: Date selection
+2026-03-22 09:42:59,278 - INFO - Opening Flights Tab
+2026-03-22 09:43:20,408 - INFO - TC1: Origin Chennai
+2026-03-22 09:45:52,460 - INFO - Opening Flights Tab
+2026-03-22 09:46:32,747 - INFO - TC1: Origin Chennai
+2026-03-22 09:46:59,222 - INFO - TC2: Destination Mumbai
+2026-03-22 09:47:37,261 - INFO - TC3: Date selection
+2026-03-22 09:49:00,913 - INFO - Opening Flights Tab
+2026-03-22 09:50:04,647 - INFO - Opening Flights Tab
+2026-03-22 09:50:41,206 - INFO - TC1: Origin Chennai
+2026-03-22 09:51:04,789 - INFO - TC2: Destination Mumbai
+2026-03-22 09:51:41,628 - INFO - TC3: Date selection
+2026-03-22 09:51:59,869 - INFO - TC4: Search flights
+2026-03-22 09:52:04,804 - INFO - TC5: Get prices
+2026-03-22 09:53:30,401 - INFO - Prices: ['₹5,258', '₹4,659', '₹4,334', '₹4,334', '₹4,334', '₹4,659', '₹4,334', 'Lock Price @₹949', '₹4,450', '₹5,100', 'Lock Price @₹519', '₹4,608', '₹5,258', 'Lock Price @₹609', '₹4,849', '₹5,499', 'Lock Price @₹499', '₹5,645']
+2026-03-22 09:53:30,402 - INFO - AI: Find cheapest
+2026-03-22 09:53:30,402 - INFO - Cheapest: 4334
+2026-03-22 09:53:30,402 - INFO - TC6: Open cheapest flight
+2026-03-22 09:53:33,630 - INFO - TC7: Validate route
+2026-03-22 10:00:16,618 - INFO - Opening Flights Tab
+2026-03-22 10:00:16,619 - INFO - Step: Opening Flights Tab
+2026-03-22 10:00:39,654 - ERROR - Critical Failure: Element not found. Tried: [('accessibility id', 'Flights'), ('xpath', "//android.widget.TextView[@text='Flights']")]
+2026-03-22 10:02:12,448 - INFO - Opening Flights Tab
+2026-03-22 10:02:12,448 - INFO - Step: Opening Flights Tab
+2026-03-22 10:02:37,223 - INFO - TC1: Origin Chennai
+2026-03-22 10:02:37,223 - INFO - TC1: Inputting Origin -> Chennai
+2026-03-22 10:03:04,621 - INFO - TC2: Destination Mumbai
+2026-03-22 10:03:04,621 - INFO - TC2: Inputting Destination -> Mumbai
+2026-03-22 10:03:31,362 - INFO - TC3: Date selection
+2026-03-22 10:03:31,362 - INFO - TC3: Selecting Travel Date (March 25)
+2026-03-22 10:03:53,071 - INFO - TC4: Search flights
+2026-03-22 10:03:53,072 - INFO - TC4: Executing Flight Search Search
+2026-03-22 10:03:56,745 - INFO - TC5: Get prices
+2026-03-22 10:03:56,745 - INFO - TC5: Scraping flight prices. Waiting for results to load...
+2026-03-22 10:06:25,308 - INFO - Opening Flights Tab
+2026-03-22 10:06:25,309 - INFO - Step: Opening Flights Tab
+2026-03-22 10:06:57,953 - INFO - TC1: Origin Chennai
+2026-03-22 10:06:57,953 - INFO - TC1: Selecting Origin -> Chennai
+2026-03-22 10:07:32,801 - INFO - TC2: Destination Mumbai
+2026-03-22 10:07:32,801 - INFO - TC2: Selecting Destination -> Mumbai
+2026-03-22 10:07:48,898 - INFO - TC3: Date selection
+2026-03-22 10:07:48,899 - INFO - TC3: Selecting Date
+2026-03-22 10:08:11,902 - INFO - TC4: Search flights
+2026-03-22 10:08:11,902 - INFO - TC4: Searching Flights
+2026-03-22 10:08:19,156 - INFO - TC5: Get prices
+2026-03-22 10:08:19,158 - INFO - TC5: Getting Prices (Handling Stale Elements)
+2026-03-22 10:08:39,300 - WARNING - DOM refreshed, retrying price extraction...
+2026-03-22 10:08:47,400 - INFO - Prices found: ['₹5,258', '₹4,659', '₹4,334', '₹4,334', '₹4,334', '₹4,659', '₹4,334', 'Lock Price @₹949', '₹4,400', '₹5,100', 'Lock Price @₹519', '₹4,608', '₹5,258', 'Lock Price @₹609', '₹4,849', '₹5,499', 'Lock Price @₹499', '₹5,645']
+2026-03-22 10:08:47,401 - INFO - Prices: ['₹5,258', '₹4,659', '₹4,334', '₹4,334', '₹4,334', '₹4,659', '₹4,334', 'Lock Price @₹949', '₹4,400', '₹5,100', 'Lock Price @₹519', '₹4,608', '₹5,258', 'Lock Price @₹609', '₹4,849', '₹5,499', 'Lock Price @₹499', '₹5,645']
+2026-03-22 10:08:47,401 - INFO - AI: Find cheapest
+2026-03-22 10:08:47,402 - INFO - Cheapest: 4334
+2026-03-22 10:08:47,402 - INFO - TC6: Open cheapest flight
+2026-03-22 10:08:47,402 - INFO - TC6: Clicking card for price: 4334
+2026-03-22 10:09:02,486 - WARNING - Element went stale while searching for card, retrying...
+2026-03-22 10:09:15,718 - WARNING - Element went stale while searching for card, retrying...
+2026-03-22 10:09:29,818 - WARNING - Element went stale while searching for card, retrying...
+2026-03-22 10:09:43,271 - WARNING - Element went stale while searching for card, retrying...
+2026-03-22 10:09:57,092 - WARNING - Element went stale while searching for card, retrying...
+2026-03-22 10:10:10,363 - WARNING - Element went stale while searching for card, retrying...
+2026-03-22 10:10:24,457 - WARNING - Element went stale while searching for card, retrying...
+2026-03-22 10:10:37,777 - WARNING - Element went stale while searching for card, retrying...
+2026-03-22 10:10:50,960 - WARNING - Element went stale while searching for card, retrying...
+2026-03-22 10:12:45,792 - INFO - Opening Flights Tab
+2026-03-22 10:12:45,792 - INFO - Step: Opening Flights Tab
+2026-03-22 10:13:08,776 - ERROR - Element not found. Tried: [('accessibility id', 'Flights'), ('xpath', "//android.widget.TextView[@text='Flights']")]
+2026-03-22 10:13:39,317 - INFO - Opening Flights Tab
+2026-03-22 10:13:39,317 - INFO - Step: Opening Flights Tab
+2026-03-22 10:14:51,142 - INFO - TC1: Origin Chennai
+2026-03-22 10:14:51,142 - INFO - TC1: Selecting Origin -> Chennai
+2026-03-22 10:16:45,143 - INFO - Opening Flights Tab
+2026-03-22 10:16:45,144 - INFO - Step: Opening Flights Tab
+2026-03-22 10:17:10,407 - ERROR - Element not found. Tried: [('accessibility id', 'Flights'), ('xpath', "//android.widget.TextView[@text='Flights']")]
+2026-03-22 10:17:44,698 - INFO - Opening Flights Tab
+2026-03-22 10:17:44,699 - INFO - Step: Opening Flights Tab
+2026-03-22 10:18:05,062 - ERROR - Element not found. Tried: [('accessibility id', 'Flights'), ('xpath', "//android.widget.TextView[@text='Flights']")]
+2026-03-22 10:19:23,890 - INFO - Opening Flights Tab
+2026-03-22 10:19:23,891 - INFO - Step: Opening Flights Tab
+2026-03-22 10:19:44,076 - INFO - TC1: Origin Chennai
+2026-03-22 10:19:44,076 - INFO - TC1: Selecting Origin -> Chennai
+2026-03-22 10:20:05,188 - INFO - TC2: Destination Mumbai
+2026-03-22 10:20:05,188 - INFO - TC2: Selecting Destination -> Mumbai
+2026-03-22 10:20:20,257 - INFO - TC3: Date selection
+2026-03-22 10:20:20,257 - INFO - TC3: Selecting Date
+2026-03-22 10:20:30,830 - INFO - TC4: Search flights
+2026-03-22 10:20:30,830 - INFO - TC4: Searching Flights
+2026-03-22 10:20:33,172 - INFO - TC5: Get prices
+2026-03-22 10:20:33,172 - INFO - TC5: Scraping Prices
+2026-03-22 10:20:47,327 - INFO - Success: Prices Found ['₹5,258', '₹4,659', '₹4,334', '₹4,334', '₹4,334', '₹4,659', '₹4,334', 'Lock Price @₹949', '₹4,450', '₹5,100', 'Lock Price @₹539', '₹4,608', '₹5,258', 'Lock Price @₹649', '₹4,849', '₹5,499', 'Lock Price @₹509', '₹5,645']
+2026-03-22 10:20:47,327 - INFO - Prices: ['₹5,258', '₹4,659', '₹4,334', '₹4,334', '₹4,334', '₹4,659', '₹4,334', 'Lock Price @₹949', '₹4,450', '₹5,100', 'Lock Price @₹539', '₹4,608', '₹5,258', 'Lock Price @₹649', '₹4,849', '₹5,499', 'Lock Price @₹509', '₹5,645']
+2026-03-22 10:20:47,327 - INFO - AI: Find cheapest
+2026-03-22 10:20:47,327 - INFO - Cheapest: 4334
+2026-03-22 10:20:47,328 - INFO - TC6: Open cheapest flight
+2026-03-22 10:20:47,328 - INFO - TC6: Clicking the first flight card (Cheapest)
+2026-03-22 10:20:58,686 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:21:13,802 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:21:27,550 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:21:40,883 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:21:54,285 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:22:08,752 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:22:23,181 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:22:31,290 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:22:44,915 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:22:57,856 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:23:11,637 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:23:25,898 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:23:39,299 - WARNING - Waiting for flight results to be clickable...
+2026-03-22 10:29:56,593 - INFO - Opening Flights Tab
+2026-03-22 10:29:56,593 - INFO - Step: Opening Flights Tab
+2026-03-22 10:30:14,208 - INFO - TC1: Origin Chennai
+2026-03-22 10:30:14,208 - INFO - TC1: Inputting Origin -> Chennai
+2026-03-22 10:30:38,645 - INFO - TC2: Destination Mumbai
+2026-03-22 10:30:38,646 - INFO - TC2: Inputting Destination -> Mumbai
+2026-03-22 10:30:53,714 - INFO - TC3: Date selection
+2026-03-22 10:30:53,714 - INFO - TC3: Selecting Travel Date (March 25)
+2026-03-22 10:31:04,512 - INFO - TC4: Search flights
+2026-03-22 10:31:04,512 - INFO - TC4: Executing Flight Search
+2026-03-22 10:31:06,312 - INFO - TC5: Get prices
+2026-03-22 10:31:06,312 - INFO - TC5: Scraping flight prices.
+2026-03-22 10:31:32,946 - INFO - Success: Extracted prices ['₹5,258', '₹4,659', '₹4,334', '₹4,334', '₹4,334', '₹4,659', '₹4,334', 'Lock Price @₹949', '₹4,450', '₹5,100', 'Lock Price @₹539', '₹4,608', '₹5,258', 'Lock Price @₹649', '₹4,849', '₹5,499', 'Lock Price @₹529', '₹5,645']
+2026-03-22 10:31:32,946 - INFO - Prices: ['₹5,258', '₹4,659', '₹4,334', '₹4,334', '₹4,334', '₹4,659', '₹4,334', 'Lock Price @₹949', '₹4,450', '₹5,100', 'Lock Price @₹539', '₹4,608', '₹5,258', 'Lock Price @₹649', '₹4,849', '₹5,499', 'Lock Price @₹529', '₹5,645']
+2026-03-22 10:31:32,947 - INFO - AI: Find cheapest
+2026-03-22 10:31:32,947 - INFO - Cheapest: 4334
+2026-03-22 10:31:32,947 - INFO - TC6: Open cheapest flight
+2026-03-22 10:31:32,947 - INFO - TC6: Clicking the first flight card on screen
+2026-03-22 10:31:45,385 - WARNING - Waiting for flight results to stabilize...
+2026-03-22 10:31:59,048 - WARNING - Waiting for flight results to stabilize...
+2026-03-22 10:32:14,074 - WARNING - Waiting for flight results to stabilize...
+2026-03-22 10:35:09,742 - INFO - Opening Flights Tab
+2026-03-22 10:35:09,742 - INFO - Step: Opening Flights Tab
+2026-03-22 10:35:47,080 - INFO - Opening Flights Tab
+2026-03-22 10:35:47,081 - INFO - Step: Opening Flights Tab
+2026-03-22 10:36:03,154 - INFO - TC1: Origin Chennai
+2026-03-22 10:36:03,154 - INFO - TC1: Inputting Origin -> Chennai
+2026-03-22 10:36:25,280 - INFO - TC2: Destination Mumbai
+2026-03-22 10:36:25,281 - INFO - TC2: Inputting Destination -> Mumbai
+2026-03-22 10:36:40,260 - INFO - TC3: Date selection
+2026-03-22 10:36:40,260 - INFO - TC3: Selecting Travel Date (March 25)
+2026-03-22 10:36:51,717 - INFO - TC4: Search flights
+2026-03-22 10:36:51,717 - INFO - TC4: Executing Flight Search
+2026-03-22 10:36:53,722 - INFO - TC5: Get prices
+2026-03-22 10:36:53,722 - INFO - TC5: Scraping flight prices.
+2026-03-22 10:37:08,896 - INFO - Success: Extracted prices ['₹5,258', '₹4,659', '₹4,334', '₹4,334', '₹4,334', '₹4,659', '₹4,334', 'Lock Price @₹949', '₹4,450', '₹5,100', 'Lock Price @₹539', '₹4,608', '₹5,258', 'Lock Price @₹649', '₹4,849', '₹5,499', 'Lock Price @₹529', '₹5,645']
+2026-03-22 10:37:08,897 - INFO - Prices: ['₹5,258', '₹4,659', '₹4,334', '₹4,334', '₹4,334', '₹4,659', '₹4,334', 'Lock Price @₹949', '₹4,450', '₹5,100', 'Lock Price @₹539', '₹4,608', '₹5,258', 'Lock Price @₹649', '₹4,849', '₹5,499', 'Lock Price @₹529', '₹5,645']
+2026-03-22 10:37:08,897 - INFO - AI: Find cheapest
+2026-03-22 10:37:08,897 - INFO - Cheapest: 4334
+2026-03-22 10:37:08,897 - INFO - TC6: Open cheapest flight
+2026-03-22 10:37:08,897 - INFO - TC6: Clicking the first available flight card (ViewGroup)
+2026-03-22 10:37:10,604 - INFO - Success: Flight card selected.
+2026-03-22 10:37:10,604 - INFO - TC7: Validate route
+2026-03-22 10:37:10,604 - INFO - TC7: Validating Review Page Route
+2026-03-22 10:37:10,896 - INFO - Validation Success: Route confirmed.
+2026-03-22 10:40:43,656 - INFO - Opening Flights Tab
+2026-03-22 10:40:43,657 - INFO - Step: Opening Flights Tab
+2026-03-22 10:41:01,308 - INFO - TC1: Origin Chennai
+2026-03-22 10:41:01,309 - INFO - TC1: Origin -> Chennai
+2026-03-22 10:41:25,045 - INFO - TC2: Destination Mumbai
+2026-03-22 10:41:25,046 - INFO - TC2: Destination -> Mumbai
+2026-03-22 10:41:40,697 - INFO - TC3: Date selection
+2026-03-22 10:41:40,697 - INFO - TC3: Date Selection
+2026-03-22 10:42:08,466 - INFO - Opening Flights Tab
+2026-03-22 10:42:08,467 - INFO - Step: Opening Flights Tab
+2026-03-22 10:42:23,278 - INFO - TC1: Origin Chennai
+2026-03-22 10:42:23,278 - INFO - TC1: Origin -> Chennai
+2026-03-22 10:42:44,295 - INFO - TC2: Destination Mumbai
+2026-03-22 10:42:44,295 - INFO - TC2: Destination -> Mumbai
+2026-03-22 10:42:59,046 - INFO - TC3: Date selection
+2026-03-22 10:42:59,047 - INFO - TC3: Date Selection
+2026-03-22 10:43:11,583 - INFO - TC4: Search flights
+2026-03-22 10:43:11,584 - INFO - TC4: Searching
+2026-03-22 10:43:13,841 - INFO - TC5: Get prices
+2026-03-22 10:43:13,841 - INFO - TC5: Scraping Prices
+2026-03-22 10:43:26,112 - INFO - Prices: ['₹5,258', '₹5,645', '₹5,645', '₹4,334', '₹4,334', '₹4,659', '₹4,334', 'Lock Price @₹949', '₹4,450', '₹5,100', 'Lock Price @₹539', '₹4,608', '₹5,258', 'Lock Price @₹649', '₹4,849', '₹5,499', 'Lock Price @₹529', '₹5,645', 'Lock Price @₹599', '₹5,645', 'Lock Price @₹529']
+2026-03-22 10:43:26,112 - INFO - AI: Find cheapest
+2026-03-22 10:43:26,112 - INFO - Cheapest: 4334
+2026-03-22 10:43:26,113 - INFO - TC6: Open cheapest flight
+2026-03-22 10:43:26,113 - INFO - TC6: Looking for the first actual Flight Card...
+2026-03-22 10:43:27,338 - INFO - Success: Flight card identified and clicked.
+2026-03-22 10:43:27,338 - INFO - TC7: Validate route
+2026-03-22 10:43:27,338 - INFO - TC7: Validating Route
+2026-03-22 10:43:58,251 - INFO - PASS: Route is correct.
